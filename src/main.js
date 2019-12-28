@@ -21,3 +21,5 @@ console.log('\nBalance of Xavier is ',tommyCoin.getBalanceAddress(myWalletAddres
 
 tommyCoin.chain[1].transactions[0].amount = 1
 console.log('Is chain valid?', tommyCoin.isChainValid())
+
+console.log(tommyCoin)
